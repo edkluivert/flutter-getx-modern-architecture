@@ -1,6 +1,6 @@
 # flutter-getx-modern-architecture
 
-A Flutter GetX Architecture for starter who need a architecture, which applied in real project.
+A Flutter GetX Architecture for starter who need a architecture, it's very okay for small projects
 
 
 ## Project structure
